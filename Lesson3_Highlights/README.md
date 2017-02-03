@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 3, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Megan Mulhall)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(Connecting GitHub and Cloud9 and creating a repository.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Main stages,committed, modified, staged)
+2. (Git needs local files)
+3. (Git knows about every change made to a file)
